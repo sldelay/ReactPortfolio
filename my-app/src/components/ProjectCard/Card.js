@@ -18,8 +18,8 @@ const ProCard = ( {project} ) => {
         </Card.Text>
       </Card.Body>
       <ul>
-        {technologies.map(item => (
-          <li>{item}</li>
+        {technologies.map((item, index) => (
+          <li key={index}>{item}</li>
         ))}
       </ul>
       <Card.Body>

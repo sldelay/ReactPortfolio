@@ -11,8 +11,8 @@ const Portfolio = ({ projects }) => {
     <>
       <Container className="Portfolio">
         <Row>
-          {projects.map((project) => (
-            <ProCard key={project.id} project={project} />
+          {projects.map((project, index) => (
+            <ProCard key={index} project={project} />
           ))}
         </Row>
       </Container>
