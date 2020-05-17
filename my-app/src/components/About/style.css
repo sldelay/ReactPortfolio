@@ -1,0 +1,13 @@
+.About {
+  margin-top: 25vh;
+  padding: 4em;
+  background-color: white;
+  margin-bottom: 10em;
+}
+
+@media screen and (max-width: 600px) {
+
+  .About {
+    margin-top: 20vh;
+  }
+}
