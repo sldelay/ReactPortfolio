@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "image": "../../images/project2.png",
+    "title": "Drift",
+    "description": "This was a team project. We built an employee feedback application that will allow employers to view and track feedback from their employees.",
+    "technologies": ["Bootstrap", "Node.js", "Auth0", "Express", "MySQL"],
+    "code": "https://github.com/sldelay/Drift",
+    "live": "https://desolate-tor-70808.herokuapp.com/"
+  },
+  {
+    "id": "2",
+    "image": "../../images/burger.png",
+    "title": "Burger Logger",
+    "description": "This was one of my first assignments using MySQL. It is a simple app that allows a user to input the name of a burger they want to eat. When the user clicks the devour button, the burger moves to the right hand side.",
+    "technologies": ["Materialize", "Node.js", "jQuery", "Express", "MySQL"],
+    "code": "https://github.com/sldelay/BurgerLogger",
+    "live": "https://frozen-retreat-23530.herokuapp.com/"
+  },
+  {
+    "id": "3",
+    "image": "../../images/project1.png",
+    "title": "Travel App",
+    "description": "This was a team project. We built an application where when a user searches for any US city, they will be presented with a packing guide, five day forecast, and events happeinging in the area.",
+    "technologies": ["Materialize", "jQuery", "OpenWeatherMap API", "OpenCage API", "Ticketmaster API"],
+    "code": "https://github.com/whoerman/Travel-App",
+    "live": "https://whoerman.github.io/Travel-App/"
+  },
+  {
+    "id": "4",
+    "image": "../../images/weather.png",
+    "title": "Weather App",
+    "description": "This app allows a use to search for an US city and get back the current weather along with the five day forecast. It also utilizes local storage to save users past searches.",
+    "technologies": ["Materialize CSS", "OpenWeatherMap API"],
+    "code": "https://github.com/sldelay/weather_app",
+    "live": "https://sldelay.github.io/weather_app/"
+  },
+  {
+    "id": "5",
+    "image": "../../images/codequiz.png",
+    "title": "Code Quiz",
+    "description": "This application presents the user with a series of multiple-choice questions realted to coding. When a user selects the wrong answer, time will be taken off the clock. When the user is presented with their final score they are then given the option to save their results in local storage.",
+    "technologies": ["Materialize CSS", "Javascipt", "jQuery"],
+    "code": "https://github.com/sldelay/coding_quizHW",
+    "live": "https://sldelay.github.io/coding_quizHW/"
+  },
+  {
+    "id": "6",
+    "image": "../../images/planner.png",
+    "title": "Workday Planner",
+    "description": "This application allows the user to schedule out one day of tasks. The hour rows will change color based on what the current hour is. Tasks get saved in local storage.",
+    "technologies": ["Materialize CSS", "Moment JS"],
+    "code": "https://github.com/sldelay/workday_planner",
+    "live": "https://sldelay.github.io/workday_planner/"
+  }
+]
