@@ -1,0 +1,47 @@
+body {
+  background-color: #8a8b8a !important;
+}
+
+h1.hello {
+  padding-top: 25vh;
+  font-size: 10em;
+  color: white;
+}
+
+h2.iAm {
+  font-size: 3em;
+  color: white;
+}
+
+.landingCol {
+  text-align: center;
+}
+
+
+@media screen and (max-width: 992px) {
+
+  h1.hello {
+    font-size: 8em;
+    color: white;
+  }
+
+  h2.iAm {
+    font-size: 2em;
+    color: white;
+  }
+
+}
+
+@media screen and (max-width: 600px) {
+
+  h1.hello {
+    font-size: 5em;
+    color: white;
+  }
+
+  h2.iAm {
+    font-size: 1em;
+    color: white;
+  }
+}
+
