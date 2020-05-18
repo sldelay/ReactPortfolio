@@ -11,8 +11,8 @@ function NavComp() {
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
         <Nav>
-          <Nav.Link href="/About">About</Nav.Link>
-          <Nav.Link href="/Portfolio">Portfolio</Nav.Link>
+          <Nav.Link href="/about">About</Nav.Link>
+          <Nav.Link href="/portfolio">Portfolio</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
